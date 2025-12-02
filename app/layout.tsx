@@ -30,7 +30,11 @@ export const metadata: Metadata = {
     siteName: "Abhishek Acharya Portfolio",
     type: "website",
   },
+  alternates: {
+    canonical: "https://abhishekacharya.vercel.app",
+  },
 };
+
 export default function RootLayout({
   children,
 }: {
