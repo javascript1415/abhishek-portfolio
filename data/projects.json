@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Movie Finance Management System",
+    "description": "Enterprise-grade financial management platform for film production companies using waterfall methodology.",
+    "problem": "Film production companies struggle with complex budget tracking, investor ROI calculations, and procurement management across multiple departments and projects. Manual processes lead to errors, delays, and lack of transparency in financial reporting.",
+    "solution": "Built a comprehensive financial platform using React, Next.js, Node.js, and Prisma with real-time budget variance tracking, automated IRR/ROI calculations, and integrated procurement-to-budget linking. Implemented waterfall methodology for systematic project management with modular architecture for scalability.",
+    "results": "Successfully manages complete financial workflows for film productions with waterfall methodology, reducing calculation errors by 90% and providing transparent investor reporting. Enables real-time budget monitoring and procurement tracking across all production departments.",
+    "category": "Full-Stack",
+    "tech": ["React", "Next.js", "TypeScript", "Node.js", "Prisma", "PostgreSQL"],
+    "github": "",
+    "live": "",
+    "image": "/images/movie-finance.jpg"
+  },
+  {
+    "id": 2,
+    "title": "RAG Document Intelligence App",
+    "description": "AI-powered RAG system enabling natural language queries on uploaded documents using LLM technology.",
+    "problem": "Users need to quickly extract insights from large documents without reading entire files, struggling with manual information retrieval. Traditional search methods fail to understand context and semantic meaning in queries.",
+    "solution": "Developed an AI-powered RAG system using Python, Django, Cohere LLM embeddings, QdrantDB for vector storage, and microservices architecture. Implements intelligent document chunking, semantic search with vector embeddings, and context-aware response generation using retrieval-augmented generation.",
+    "results": "Enables instant Q&A on any document type (PDF, DOCX, TXT) with semantic search accuracy of 95%+. Serves as university capstone project demonstrating production-ready AI integration with scalable microservices architecture and background workers for document processing.",
+    "category": "AI/ML",
+    "tech": ["Python", "Django", "RAG", "Cohere LLM", "QdrantDB", "Redis", "MongoDB", "Microservices"],
+    "github": "https://github.com/javascript1415/raaagg",
+    "live": "",
+    "image": "/images/rag-app.png"
+  },
+  {
+    "id": 3,
+    "title": "Full-Stack E-Commerce Platform",
+    "description": "Complete e-commerce solution with integrated eSewa payment gateway for the Nepali market.",
+    "problem": "Nepali businesses lack integrated e-commerce solutions with local payment gateways, forcing manual payment processing and losing customers due to payment friction. Need for dual-role system supporting both sellers and customers.",
+    "solution": "Built complete e-commerce system with Django frontend/backend and separate DRF API for scalability. Integrated eSewa payment gateway for seamless transactions with dual-role authentication allowing users to switch between seller and customer modes. Implemented product catalog, cart system, order management, and secure payment processing.",
+    "results": "Production-ready platform enabling both sellers and customers to manage products, orders, and payments through Nepal's leading payment gateway. Supports inventory management, real-time order tracking, and automated payment reconciliation with eSewa API integration.",
+    "category": "E-Commerce",
+    "tech": ["Django", "Django REST Framework", "PostgreSQL", "eSewa API", "HTML/CSS", "JavaScript"],
+    "github": "https://github.com/javascript1415/project",
+    "live": "",
+    "image": "/images/ecommerce.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Real-Time Chat Application",
+    "description": "Scalable RESTful API backend supporting real-time user-to-user communication.",
+    "problem": "Need for scalable messaging infrastructure supporting real-time user-to-user communication with message persistence, delivery confirmation, and secure authentication across multiple devices.",
+    "solution": "Designed and implemented RESTful API backend with Django REST Framework, WebSockets for real-time communication, and efficient database architecture for message persistence. Built authentication system with JWT tokens, message encryption, and optimized database queries for chat history retrieval.",
+    "results": "Scalable chat backend enabling instant messaging between users with secure authentication, message history, and real-time delivery. Supports concurrent connections with WebSocket protocol and efficient message queuing for offline delivery.",
+    "category": "Python/Django",
+    "tech": ["Django REST Framework", "WebSockets", "PostgreSQL", "JWT", "Redis"],
+    "github": "https://github.com/javascript1415/chatapp",
+    "live": "",
+    "image": "/images/chat-app.jpg"
+  }
+]

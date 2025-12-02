@@ -1,0 +1,25 @@
+{
+  "backend": [
+    { "name": "Python", "level": 95, "color": "#f59e0b" },
+    { "name": "Django & DRF", "level": 95, "color": "#10b981" },
+    { "name": "Data Structures & Algorithms", "level": 90, "color": "#8b5cf6" }
+  ],
+  "frontend": [
+    { "name": "React & Next.js", "level": 80, "color": "#3b82f6" },
+    { "name": "TypeScript", "level": 75, "color": "#06b6d4" },
+    { "name": "Node.js", "level": 70, "color": "#84cc16" }
+  ],
+  "data": [
+    { "name": "NumPy & Pandas", "level": 85, "color": "#f59e0b" },
+    { "name": "RAG/LLM Integration", "level": 80, "color": "#8b5cf6" },
+    { "name": "Metasploit (Security)", "level": 70, "color": "#ef4444" }
+  ],
+  "tools": [
+    { "name": "PostgreSQL & Prisma", "level": 85, "color": "#3b82f6" },
+    { "name": "Git & GitHub", "level": 90, "color": "#f59e0b" },
+    { "name": "Linux (Parrot OS)", "level": 85, "color": "#10b981" },
+    { "name": "C/C++", "level": 65, "color": "#6366f1" },
+    { "name": "Java", "level": 60, "color": "#ec4899" },
+    { "name": ".NET", "level": 60, "color": "#8b5cf6" }
+  ]
+}

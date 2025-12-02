@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "year": "2078 BS (2021)",
+    "title": "Started BSc CSIT Journey",
+    "organization": "Amrit Science Campus (ASCOL), Kathmandu",
+    "description": "Began my journey in IT field pursuing Bachelor of Science in Computer Science and Information Technology. Focused on building strong fundamentals in programming, data structures, and algorithms.",
+    "type": "education",
+    "color": "#f59e0b"
+  },
+  {
+    "id": 2,
+    "year": "2079 BS (2022)",
+    "title": "Mastered Django & Python",
+    "organization": "Self-Learning & Projects",
+    "description": "Deep-dived into Python and Django framework, building multiple full-stack applications. Developed strong expertise in Django REST Framework and database design with PostgreSQL.",
+    "type": "achievement",
+    "color": "#10b981"
+  },
+  {
+    "id": 3,
+    "year": "2080 BS (2023)",
+    "title": "E-Commerce Platform Development",
+    "organization": "Personal Project",
+    "description": "Built a complete e-commerce platform with integrated eSewa payment gateway. Implemented dual-role authentication system for sellers and customers, showcasing full-stack capabilities.",
+    "type": "project",
+    "color": "#3b82f6"
+  },
+  {
+    "id": 4,
+    "year": "2081 BS (2024)",
+    "title": "Movie Finance Management System",
+    "organization": "Team Project for Film Production Company",
+    "description": "Led frontend development and calculation logic for an enterprise-grade financial management platform. Managed complex budget tracking, investor ROI calculations, and procurement workflows using React, Next.js, and Node.js.",
+    "type": "work",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": 5,
+    "year": "2081 BS (2024)",
+    "title": "RAG Document Intelligence App",
+    "organization": "University Capstone Project",
+    "description": "Developed AI-powered RAG application using Cohere LLM, QdrantDB, and microservices architecture. Implemented document processing, vector embeddings, and natural language Q&A system as final year project.",
+    "type": "project",
+    "color": "#ec4899"
+  },
+  {
+    "id": 6,
+    "year": "2082 BS (Expected)",
+    "title": "Graduating BSc CSIT",
+    "organization": "Amrit Science Campus (ASCOL), Kathmandu",
+    "description": "Expected graduation with Bachelor's degree in Computer Science and Information Technology. Ready to take on professional challenges in Python, Django, and Full-Stack development.",
+    "type": "education",
+    "color": "#f59e0b"
+  }
+]
