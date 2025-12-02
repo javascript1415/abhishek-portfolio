@@ -264,7 +264,7 @@ export default function Contact() {
           className="text-center mt-16 pt-8 border-t border-white/10"
         >
           <p className="text-gray-400">
-            © 2025 Abhishek Acharya. Built with ❤️ using Next.js & Tailwind CSS
+            © 2025 Abhishek Acharya .
           </p>
         </motion.div>
       </div>
