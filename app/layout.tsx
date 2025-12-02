@@ -8,17 +8,29 @@ import ScrollProgress from "./components/ScrollProgress";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Abhishek Acharya | Python & Full-Stack Developer",
-  description: "Python developer specializing in Django, React, and AI-powered applications. Building scalable web solutions from backend to frontend.",
-  keywords: "Python Developer, Django, React, Full-Stack, Nepal, Kathmandu, Web Development",
+  title: "Abhishek Acharya | Full-Stack Developer",
+  description:
+    "Full-stack developer crafting scalable web applications with Django, React, and AI — specializing in fintech, RAG systems, and data-driven solutions.",
+  keywords: [
+    "Full-Stack Developer",
+    "Django Developer",
+    "React Developer",
+    "AI Engineer",
+    "Fintech",
+    "RAG systems",
+    "Kathmandu",
+    "Nepal",
+  ],
   authors: [{ name: "Abhishek Acharya" }],
   openGraph: {
-    title: "Abhishek Acharya | Python & Full-Stack Developer",
-    description: "Portfolio showcasing Python, Django, and Full-Stack projects",
+    title: "Abhishek Acharya | Full-Stack Developer",
+    description:
+      "Portfolio showcasing full-stack, fintech, and AI projects built with Django, React, and modern tooling.",
+    url: "https://abhishekacharya.vercel.app",
+    siteName: "Abhishek Acharya Portfolio",
     type: "website",
   },
 };
-
 export default function RootLayout({
   children,
 }: {
